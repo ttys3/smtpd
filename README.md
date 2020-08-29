@@ -1,5 +1,8 @@
 # smtpd
 
+> forked from <https://github.com/mhale/smtpd> and mainly used for SMTP -> Email API bridge server.
+> for example, <https://github.com/ttys3/smtp-brd>
+
 An SMTP server package written in Go, in the style of the built-in HTTP server. It meets the minimum requirements specified by RFC 2821 & 5321.
 
 It is based on [Brad Fitzpatrick's go-smtpd](https://github.com/bradfitz/go-smtpd). The differences can be summarised as:
